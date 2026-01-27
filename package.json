@@ -1,6 +1,7 @@
 {
   "name": "tunis",
   "version": "2.2.1",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
@@ -59,6 +60,5 @@
   "bugs": {
     "url": "https://github.com/MostafaHusseinAli20/portfolio/issues"
   },
-  "homepage": "https://github.com/MostafaHusseinAli20/portfolio#readme",
   "description": ""
 }
