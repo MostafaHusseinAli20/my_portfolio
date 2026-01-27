@@ -1,4 +1,3 @@
-import React from "react";
 import { Link } from "react-router-dom";
 import dark from "../assets/img/intro/dark.jpg";
 import rtl from "../assets/img/intro/rtl.jpg";

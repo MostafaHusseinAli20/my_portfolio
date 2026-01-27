@@ -1,4 +1,4 @@
-import React, { createContext } from "react";
+import { createContext } from "react";
 import AllBlogData from "../Hooks/AllBlogData";
 
 export const MyContext = createContext();

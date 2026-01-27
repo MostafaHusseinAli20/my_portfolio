@@ -1,4 +1,3 @@
-import React from "react";
 import Modal from "react-modal";
 import cancelImg from "../../assets/img/cancel.svg";
 import UseData from "../../Hooks/UseData";

@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import lightImage from "../../assets/img/sun.png";
 
 const SwitchDark = () => {

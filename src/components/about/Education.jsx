@@ -1,5 +1,3 @@
-import React from "react";
-
 const educationContent = [
   {
     year: "2022 - PRESENT",

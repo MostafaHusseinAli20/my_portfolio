@@ -1,7 +1,6 @@
 import Image1 from "../../assets/img/portfolio/1.png";
 import Image2 from "../../assets/img/portfolio/2.png";
 import Image3 from "../../assets/img/portfolio/3.png";
-import Image4 from "../../assets/img/portfolio/4.png";
 import Image5 from "../../assets/img/portfolio/5.png";
 import Image6 from "../../assets/img/portfolio/6.png";
 import Image7 from "../../assets/img/portfolio/7.png";
@@ -58,22 +57,6 @@ const PortfolioData = [
       },
     ],
   },
-  // {
-  //   id: 4,
-  //   type: "video game project",
-  //   image: Image4,
-  //   tag: ["logo", "video"],
-  //   delayAnimation: "0",
-  //   modalDetails: [
-  //     {
-  //       project: "Website",
-  //       client: "Videohive",
-  //       language: " HTML, CSS, TailwindCSS, React.js",
-  //       preview: "www.vercel.com",
-  //       link: "https://video-game-with-json-server.vercel.app/",
-  //     },
-  //   ],
-  // },
   {
     id: 5,
     type: "space tourism project",

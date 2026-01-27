@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import Modal from "react-modal";
 import heroImg from "../../assets/img/hero/2.jpeg";
 import heroImgMobile from "../../assets/img/hero/New folder/2.png";

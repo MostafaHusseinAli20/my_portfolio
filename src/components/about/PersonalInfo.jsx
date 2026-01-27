@@ -1,5 +1,3 @@
-import React from "react";
-
 const personalInfoContent = [
   { meta: "first name", metaInfo: "Mostafa" },
   { meta: "last name", metaInfo: "Hussein" },

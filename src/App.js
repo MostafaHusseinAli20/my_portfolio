@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import ScrollToTop from "./components/ScrollToTop";
 import AllRoutes from "./router/AllRoutes";
 import AOS from "aos";

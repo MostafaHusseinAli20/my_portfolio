@@ -1,5 +1,3 @@
-import React from "react";
-
 const experienceContent = [
   {
     year: "   2023   - Present",

@@ -1,5 +1,5 @@
-import React, { useState } from "react";
-import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
+import { useState } from "react";
+import {  Tabs, TabPanel } from "react-tabs";
 import PortfolioData from "./portfolioData";
 import Modal from "./modal/Modal";
 

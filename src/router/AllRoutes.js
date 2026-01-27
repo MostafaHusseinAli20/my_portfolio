@@ -1,4 +1,3 @@
-import React from "react";
 import HomeDark from "../views/all-home-version/HomeDark";
 import NotFound from "../views/NotFound";
 import { Routes, Route } from "react-router-dom";
